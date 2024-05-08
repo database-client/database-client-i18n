@@ -7,4 +7,8 @@ Stored in two different folders:
 - frontend: Store user interface i18n resource.
 - extension: Stroe tree view, menus and prompts i18n resource.
 
-More available locales can be found at [Visual Studio Code Display Language (Locale)](https://code.visualstudio.com/docs/getstarted/locales#_available-locales).
+Add new language:
+
+1. View more available locales at [Visual Studio Code Display Language (Locale)](https://code.visualstudio.com/docs/getstarted/locales#_available-locales).
+2. Copy message.js and package.nls.json, add locale suffix.
+3. Modify to the text corresponding to the language.
