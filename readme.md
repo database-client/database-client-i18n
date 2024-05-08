@@ -1,6 +1,6 @@
 # Database Client I18n
 
-This repository is the i18n resource of the database client.
+This repository is the i18n resource of the [Database Client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2).
 
 Stored in two different folders:
 
