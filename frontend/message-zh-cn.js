@@ -1,4 +1,12 @@
 export default {
+  confirm: {
+    warning: '警告',
+    updateConfirm: '确认更新',
+    deleteSelected: '确定要删除选定的数据吗？',
+    deleteSelectedWithoutPk: '确定要删除选定的数据吗？未找到主键，此更改可能会影响到比预期更多的记录！',
+    deleteForward: '确定要删除此端口转发吗？',
+    deleteRedisKey: '确定要删除此键吗？',
+  },
   common: {
     new: '新建',
     create: '创建',
@@ -227,12 +235,19 @@ export default {
     buyPlan: '立刻购买',
   },
   toolbar: {
+    showFilter: '显示过滤器',
+    execute: '执行SQL',
+    insertNewRow: '插入新行',
+    insertNewRowByDialog: '通过对话框插入新行',
+    importData: '导入数据',
+    exportData: '导出数据',
     reportIssue: '报告问题',
     clearCache: '清除缓存',
     payAdvice: '高级用户将移除这个提示',
     noPkUpdateConfirm: "没有发现主键, <span class='red'>此更改可能会影响比预期更多的记录!</span> 您确定保存修改吗(不建议)?",
   },
   console: {
+    other: '其他',
     treeOptions: '树视图',
     sqlOptions: 'SQL',
     resultOptions: '结果页',
@@ -265,6 +280,7 @@ export default {
     bought: '已解锁',
     basicNotice: '可用于商业用途以及无广告',
     basicSQLCompletion: 'SQL补全',
+    connectionSupport: 'MySQL, PostgreSQL, Redis, SSH以及更多',
     premiumDesc: '对于希望提高生产力的开发工程师',
     otherFeature: 'SFTP保存, SQL历史记录支持',
     freeLimitConnection: '限制3个连接',

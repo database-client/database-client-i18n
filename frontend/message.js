@@ -1,4 +1,12 @@
 export default {
+  confirm: {
+    warning: 'Warning',
+    updateConfirm: 'Update Confirm',
+    deleteSelected: 'Are you sure to delete selected data?',
+    deleteSelectedWithoutPk: 'Are you sure to delete selected data? No primary key found, this change might affect more records than expected!',
+    deleteForward: 'Are you sure to delete this port forwarding?',
+    deleteRedisKey: 'Are you sure to delete this key?',
+  },
   common: {
     new: 'New',
     create: 'Create',
@@ -227,12 +235,19 @@ export default {
     buyPlan: 'Buy Now',
   },
   toolbar: {
+    showFilter:'Show Filter',
+    execute: 'Execute SQL',
+    insertNewRow: 'Insert New Row',
+    insertNewRowByDialog: 'Insert New Row By Dialog',
+    importData: 'Import Data',
+    exportData: 'Export Data',
     reportIssue: 'Report issue',
     clearCache: 'Clear Cache',
     payAdvice: 'Premium account will remove this badge',
     noPkUpdateConfirm: "No primary key found, <span class='red'>this change might affect more records than expected!</span> Are you sure to save the modification? (Not Recommended)",
   },
   console: {
+    other: 'Other',
     treeOptions: 'TreeView',
     sqlOptions: 'SQL',
     resultOptions: 'Result',
@@ -265,6 +280,7 @@ export default {
     bought: 'Unlocked',
     basicNotice: 'Available for commercial usage and no ads.',
     basicSQLCompletion: 'SQL Completion',
+    connectionSupport: 'MySQL, PostgreSQL, Redis, SSH, and More',
     premiumDesc: 'For engineers looking to boost productivity',
     otherFeature: 'SFTP Saver, SQL History Support',
     freeLimitConnection: 'Limit 3 connections',
