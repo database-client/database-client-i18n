@@ -152,7 +152,7 @@
 	"ext.console.downloadFromCloud": "Sync from Cloud",
 	"config.title": "Database Client",
 	"config.defaultSelectLimit": "Default limit for SELECT statements.",
-	"config.autoPagingSQL": "Automatically page query results.",
+	"config.autoPagingSQL": "Automatically add paging clauses to SQL.",
 	"config.queryWithSchema": "Query all table with schema when clicking table node.",
 	"config.confirmWhenUpdateWithoutWhere": "Confirm when executing UPDATE without WHERE clause.",
 	"config.redisPageSize": "Number of keys loaded by Redis scan.",

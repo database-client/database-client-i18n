@@ -155,7 +155,7 @@
 	"config.confirmWhenUpdateWithoutWhere": "执行没有WHERE的UPDATE时进行确认",
 	"config.redisPageSize": "Redis分页scan时的key数量",
 	"config.highlightSQLBlock": "编辑SQL时高亮当前SQL",
-	"config.autoGetTableCount": "查询表时自动获取表总数",
+	"config.autoGetTableCount": "查询表时自动获取总行数",
 	"config.disableSqlCodeLenNew": "禁用SQL Code len",
 	"config.splitEditorWhenQuery": "在执行SQL时分割布局",
 	"config.bindConnectionByActiveMark": "通过活跃标识绑定SQL文件和连接",
