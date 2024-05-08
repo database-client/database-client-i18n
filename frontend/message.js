@@ -96,7 +96,7 @@ export default {
     'changeLog': 'Changes',
     'document': 'Document',
     'util': 'Util',
-    'console': 'Console',
+    'settings': 'Settings',
     'plan': 'Plan',
     'login': 'Login',
     'logout': 'Log out',

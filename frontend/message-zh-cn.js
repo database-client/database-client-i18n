@@ -96,7 +96,7 @@ export default {
     'changeLog': '更新日志',
     'document': '文档',
     'util': '工具',
-    'console': '控制台',
+    'settings': '设置',
     'plan': '计划',
     'login': '登录',
     'logout': '注销',
