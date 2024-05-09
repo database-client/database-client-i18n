@@ -260,7 +260,7 @@ export default {
     sync: 'Cloud Sync',
     autoSync: 'Auto Sync (Via VS Code account)',
     uploadConfirm: 'Do you confirm to upload the configuration?',
-    mergeConfirm: 'This connection already exists. What would you like to do?',
+    mergeConfirm: 'There is already created connection, select the action you want to perform',
     removeConfirm: 'Are you sure you want to remove cloud sync content?',
     merge: 'Merge',
     overwrite: 'Overwrite',
