@@ -154,6 +154,7 @@
 	"config.redisPageSize": "Number of keys loaded by Redis scan.",
 	"config.highlightSQLBlock": "Highlight SQL Code block at cursor.",
 	"config.autoGetTableCount": "Get total row count when viewing table data.",
+	"config.disableSQLCompletion": "Disable SQL completion.",
 	"config.disableSqlCodeLenNew": "Disable SQL Code lens.",
 	"config.splitEditorWhenQuery": "Split layout when execute the SQL.",
 	"config.bindConnectionByActiveMark": "Bind SQL files and connections by active mark.",
