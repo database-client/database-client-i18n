@@ -227,6 +227,7 @@ export default {
     editDialog: 'Edit Row',
     copyDialog: 'Copy Row',
     setNull: 'Set NULL',
+    skipForeignCheck: 'Skip foreign key constraint checking',
   },
   pay: {
     connectNotice: "<span class='red'>Note</span>: Extension requires a <a href='https://database-client.com/#/plan'>Premium License</a> to unlock all features. (Limited to 3 connections)",

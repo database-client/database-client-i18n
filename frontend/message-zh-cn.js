@@ -227,6 +227,7 @@ export default {
     editDialog: '编辑行',
     copyDialog: '复制行',
     setNull: '设置为NULL',
+    skipForeignCheck: '跳过外键约束检查',
   },
   pay: {
     connectNotice: "<span class='red'>注意</span>: 扩展需要<a href='https://database-client.com/#/plan'>付费</a>才能使用全部功能(3个连接限制).",
