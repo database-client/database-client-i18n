@@ -279,6 +279,7 @@ export default {
     freeTier: 'Free Tier',
     buyNow: 'Buy Now',
     bought: 'Unlocked',
+    exportNotice: 'Export is available with Premium license',
     basicNotice: 'Available for commercial usage and no ads.',
     basicSQLCompletion: 'SQL Completion',
     connectionSupport: 'MySQL, PostgreSQL, Redis, SSH, and More',

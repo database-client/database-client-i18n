@@ -279,6 +279,7 @@ export default {
     freeTier: '免费试用',
     buyNow: '购买',
     bought: '已解锁',
+    exportNotice: '导出只对Premium许可开放',
     basicNotice: '可用于商业用途以及无广告',
     basicSQLCompletion: 'SQL补全',
     connectionSupport: 'MySQL, PostgreSQL, Redis, SSH以及更多',
