@@ -9,6 +9,7 @@ export default {
   },
   common: {
     new: '新建',
+    copied:'已复制!',
     create: '创建',
     cancel: '取消',
     ok: '确定',

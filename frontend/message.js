@@ -9,6 +9,7 @@ export default {
   },
   common: {
     new: 'New',
+    copied:'Copied!',
     create: 'Create',
     cancel: 'Cancel',
     ok: 'OK',
@@ -69,7 +70,7 @@ export default {
     deleteIndexConfirm: 'Are you sure you want to delete this index?',
     deleteCheckConfirm: 'Are you sure you want to delete this check?',
     deleteFkConfirm: 'Are you sure you want to delete this foreign key?',
-    updateSuccess: 'Update succeeded!',
+    updateSuccess: 'Update successfully!',
   },
   table: {
     data: 'DATA',

@@ -190,7 +190,7 @@
 	"ext.confirm.dropTable": "Are you sure you want to drop table $1?",
 	"ext.content.copyTable": "Copy table",
 	"ext.content.inputNewTableName": "Input new table name",
-	"ext.content.copySuccess": "Copy success!",
+	"ext.content.copySuccess": "Copy successfully!",
 	"ext.content.deleteConsumerGroup": "Delete Consumer Group",
 	"ext.confirm.deleteConsumerGroup": "Are you sure you want to delete consumer group $1?",
 	"ext.content.settingOffset": "Setting Offset",
