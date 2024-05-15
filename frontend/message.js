@@ -35,7 +35,7 @@ export default {
     columnMaximumWidth: 'Column Maximum Width:',
   },
   notice: {
-    copySuccess: 'Copied successfully!'
+    copySuccess: 'Copied!'
   },
   design: {
     table: 'Name',
