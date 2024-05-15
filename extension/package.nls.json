@@ -229,5 +229,6 @@
 	"ext.content.jsonModeIsOnlyAvailableForPremium": "JSON mode is only available for premium!",
 	"ext.content.deleteFolder": "Delete Folder",
 	"ext.content.actionExecuting":"Executing $1 $2...",
-	"ext.content.actionSuccess":"$1 $2 success! Cost time: $3"
+	"ext.content.actionSuccess":"$1 $2 success! Cost time: $3",
+	"ext.content.loadingMetadata":"Loading metadata..."
 }

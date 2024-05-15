@@ -228,5 +228,6 @@
 	"ext.content.jsonModeIsOnlyAvailableForPremium": "JSON模式只对premium开放!",
 	"ext.content.deleteFolder": "删除文件夹",
 	"ext.content.actionExecuting":"正在执行 $1 $2...",
-	"ext.content.actionSuccess":"$1 $2 成功! 耗时: $3"
+	"ext.content.actionSuccess":"$1 $2 成功! 耗时: $3",
+	"ext.content.loadingMetadata": "正在加载元数据..."
 }
