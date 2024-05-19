@@ -220,7 +220,6 @@ export default {
     update: '更新',
     confirm: '确认',
     searchNotice: '搜索结果集',
-    deleteNotice: '没有选中行!',
     cost: '耗时',
     copy: '复制',
     copyAsCSV: '复制为CSV',

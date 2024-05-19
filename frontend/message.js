@@ -220,7 +220,6 @@ export default {
     update: 'Update',
     confirm: 'Confirm',
     searchNotice: 'Search results',
-    deleteNotice: 'No row selected!',
     cost: 'Cost',
     copy: 'Copy',
     copyAsCSV: 'Copy As CSV',
