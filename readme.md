@@ -10,7 +10,7 @@ Resource stored in two different folders:
 Add new language:
 
 1. View more available locales at [Visual Studio Code Display Language (Locale)](https://code.visualstudio.com/docs/getstarted/locales#_available-locales).
-2. Copy message.js and package.nls.json, add locale to filename.
+2. Copy message.ts and package.nls.json, add locale to filename.
 3. Modify to the text corresponding to the language.
 
 For contributors of new languages, 1 year of Premium will be given.
