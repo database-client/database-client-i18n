@@ -288,7 +288,7 @@ export default {
     premiumDesc: 'For engineers looking to boost productivity',
     otherFeature: 'SFTP Saver, SQL History Support',
     freeLimitConnection: 'Limited to 3 connections',
-    unlimitedMachine: 'Unlimited Machines',
+    unlimitedMachine: 'Unlimited Devices (Via Account)',
     unlimitedConnection: 'Unlimited Connections',
     cloudSync: 'Cloud Config Sync',
     workLevelConnection: 'Workspace Level Connection',

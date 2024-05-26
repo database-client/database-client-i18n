@@ -288,7 +288,7 @@ export default {
     premiumDesc: '对于希望提高生产力的开发工程师',
     otherFeature: 'SFTP保存, SQL历史记录支持',
     freeLimitConnection: '限制3个连接',
-    unlimitedMachine: '无限制机器数量',
+    unlimitedMachine: '无限制机器数量 (账号登录)',
     unlimitedConnection: '无限制的连接',
     cloudSync: '设置云同步',
     workLevelConnection: '工作空间级别的连接',
