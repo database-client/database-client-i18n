@@ -134,6 +134,7 @@ export default {
     save: 'Save',
     enable: 'Enable',
     main: 'Main',
+    sshTunnel: 'SSH Tunnel',
     socksProxy: 'Socks Proxy',
     httpProxy: 'HTTP Proxy',
     connectTimeout: 'Timeout(ms)',

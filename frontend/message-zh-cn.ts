@@ -134,6 +134,7 @@ export default {
     save: '保存',
     enable: '启用',
     main: '主要',
+    sshTunnel: 'SSH隧道',
     socksProxy: 'Socks代理',
     httpProxy: 'HTTP代理',
     connectTimeout: '超时时间(ms)',
