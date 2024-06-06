@@ -9,7 +9,7 @@ export default {
   },
   common: {
     new: '新建',
-    copied:'已复制!',
+    copied: '已复制!',
     create: '创建',
     cancel: '取消',
     ok: '确定',
@@ -39,6 +39,7 @@ export default {
   },
   design: {
     table: '表名',
+    engine: '引擎',
     collate: '字符集',
     check: '检查约束',
     clause: '检查子句',

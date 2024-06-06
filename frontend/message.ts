@@ -9,7 +9,7 @@ export default {
   },
   common: {
     new: 'New',
-    copied:'Copied!',
+    copied: 'Copied!',
     create: 'Create',
     cancel: 'Cancel',
     ok: 'OK',
@@ -39,6 +39,7 @@ export default {
   },
   design: {
     table: 'Name',
+    engine: 'Engine',
     collate: 'Collate',
     check: 'Check',
     clause: 'Clause',
@@ -239,7 +240,7 @@ export default {
     buyPlan: 'Buy Now',
   },
   toolbar: {
-    showFilter:'Show Filter',
+    showFilter: 'Show Filter',
     execute: 'Execute SQL',
     insertNewRow: 'Insert New Row',
     insertNewRowByDialog: 'Insert New Row By Dialog',
