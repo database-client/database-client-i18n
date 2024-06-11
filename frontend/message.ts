@@ -204,6 +204,7 @@ export default {
     groupingThreshold: 'Grouping Threshold',
   },
   offline: {
+    enterprise: 'Obtain a license from your organization.',
     online: 'Log in with your premium account to use on unlimited machines.',
     detail: "Get your Machine Id and go to <a href='https://database-client.com/#/console/license'>Licenses</a> to generate up to 3 offline licenses.",
     getMachineId: 'Get Machine Id',

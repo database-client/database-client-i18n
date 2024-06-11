@@ -204,6 +204,7 @@ export default {
     groupingThreshold: '分组阈值',
   },
   offline: {
+    enterprise: '从你的组织获取许可证.',
     online: '登录你的premium账号即可, 无机器数量限制.',
     detail: "获取机器码并前往<a href='https://database-client.com/#/console/license'>License</a>生成, 每个账号最多获取3个离线激活码.",
     getMachineId: '获取机器码',
