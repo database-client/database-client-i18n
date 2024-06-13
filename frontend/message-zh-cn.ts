@@ -198,6 +198,7 @@ export default {
     driverPath: '驱动路径',
     showedBuckets: '显示的Buckets',
     showedDatabases: '显示的数据库',
+    startupScript: '启动脚本',
     privateKeyPath: '私钥路径',
     timeZone: '时区',
     groupingTables: '分组表',
