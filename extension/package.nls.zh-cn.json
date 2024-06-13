@@ -56,6 +56,7 @@
 	"command.runSQL": "执行选中的SQL",
 	"command.runSQLInNew": "执行选中的SQL (新标签)",
 	"command.runAllQuery": "执行编辑器内全部SQL",
+	"command.runAllQueryWithoutParse": "执行编辑器内全部SQL(不解析)",
 	"command.util.github": "关注项目以表支持",
 	"command.query.switch": "打开查询",
 	"command.sql.import": "导入SQL文件",
@@ -218,7 +219,7 @@
 	"ext.content.areYouSureToDeleteThisQuery": "你确定要删除该查询吗?",
 	"ext.content.changeQueryName": "修改查询名称",
 	"ext.content.moveFilesConfirm": "您确定要将“$1”移动到“$2”吗?",
-    "ext.content.moveFilesInBatchConfirm": "您确定要移动这些文件到“$1”吗?",
+	"ext.content.moveFilesInBatchConfirm": "您确定要移动这些文件到“$1”吗?",
 	"ext.content.move": "移动",
 	"ext.content.databasePathCannotBeEmpty": "数据库路径不可为空!",
 	"ext.content.databasePathCannotBeAFolder": "数据库路径不可为文件夹!",
@@ -229,7 +230,7 @@
 	"ext.content.connectionTimeout": "连接超时",
 	"ext.content.jsonModeIsOnlyAvailableForPremium": "JSON模式只对premium开放!",
 	"ext.content.deleteFolder": "删除文件夹",
-	"ext.content.actionExecuting":"正在执行 $1 $2...",
-	"ext.content.actionSuccess":"$1 $2 成功! 耗时: $3",
+	"ext.content.actionExecuting": "正在执行 $1 $2...",
+	"ext.content.actionSuccess": "$1 $2 成功! 耗时: $3",
 	"ext.content.loadingMetadata": "正在加载元数据..."
 }

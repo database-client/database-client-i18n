@@ -56,6 +56,7 @@
 	"command.runSQL": "Run Selected SQL",
 	"command.runSQLInNew": "Run Selected SQL (New Tab)",
 	"command.runAllQuery": "Run All SQL Statements",
+	"command.runAllQueryWithoutParse": "Run All SQL Statements (Not parsed)",
 	"command.util.github": "Star the project to show support.",
 	"command.query.switch": "Open Query",
 	"command.sql.import": "Import SQL",
@@ -218,7 +219,7 @@
 	"ext.content.areYouSureToDeleteThisQuery": "Are you sure to delete this query?",
 	"ext.content.changeQueryName": "Change query name",
 	"ext.content.moveFilesConfirm": "Are you sure want to move '$1' into '$2'?",
-    "ext.content.moveFilesInBatchConfirm": "Are you sure want to move these files into '$1'?",
+	"ext.content.moveFilesInBatchConfirm": "Are you sure want to move these files into '$1'?",
 	"ext.content.move": "Move",
 	"ext.content.databasePathCannotBeEmpty": "Database path cannot be empty!",
 	"ext.content.databasePathCannotBeAFolder": "Database path cannot be a folder!",
@@ -229,7 +230,7 @@
 	"ext.content.connectionTimeout": "Connection timeout",
 	"ext.content.jsonModeIsOnlyAvailableForPremium": "JSON mode is only available for premium!",
 	"ext.content.deleteFolder": "Delete Folder",
-	"ext.content.actionExecuting":"Executing $1 $2...",
-	"ext.content.actionSuccess":"$1 $2 success! Cost time: $3",
-	"ext.content.loadingMetadata":"Loading metadata..."
+	"ext.content.actionExecuting": "Executing $1 $2...",
+	"ext.content.actionSuccess": "$1 $2 success! Cost time: $3",
+	"ext.content.loadingMetadata": "Loading metadata..."
 }
