@@ -198,7 +198,7 @@ export default {
     driverPath: 'Driver Path',
     showedBuckets: 'Showed Buckets',
     showedDatabases: 'Showed Databases',
-    startupScript: 'Startup Script',
+    startupSQL: 'Startup SQL',
     privateKeyPath: 'Private Key Path',
     timeZone: 'Time Zone',
     groupingTables: 'Grouping Tables',
