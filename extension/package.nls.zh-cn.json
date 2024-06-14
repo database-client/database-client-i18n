@@ -9,6 +9,7 @@
 	"command.folder.upload": "上传文件夹",
 	"command.folder.new": "新建文件夹",
 	"command.bucket.new": "新建Bucket",
+	"command.ssh.connect": "连接到新窗口",
 	"command.ssh.forward.port": "端口转发",
 	"command.ssh.user.new": "创建用户",
 	"command.ssh.user.delete": "删除用户",

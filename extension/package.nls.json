@@ -9,6 +9,7 @@
 	"command.folder.upload": "Upload Folder",
 	"command.folder.new": "New Folder",
 	"command.bucket.new": "New Bucket",
+	"command.ssh.connect": "Connect in New Window",
 	"command.ssh.forward.port": "Forward Port",
 	"command.ssh.user.new": "New User",
 	"command.ssh.user.delete": "Delete User",
