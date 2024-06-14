@@ -56,7 +56,7 @@
 	"command.runSQL": "Run Selected SQL",
 	"command.runSQLInNew": "Run Selected SQL (New Tab)",
 	"command.runAllQuery": "Run All SQL Statements",
-	"command.runAllQueryWithoutParse": "Run All SQL Statements (Not parsed)",
+	"command.runAllQueryWithoutParse": "Run All SQL Statements (Not Parsed)",
 	"command.util.github": "Star the project to show support.",
 	"command.query.switch": "Open Query",
 	"command.sql.import": "Import SQL",
