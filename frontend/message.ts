@@ -155,13 +155,6 @@ export default {
     s3Notice: 'Support connecting to any service compatible with AWS S3 protocol, such as Minio.',
     hasDockerNotice: 'Check that Docker is installed and you can connect directly via the connect button.',
   },
-  treeFeature: {
-    type: 'Type',
-    event: 'Event',
-    sequence: 'Sequence',
-    foreignTable: 'Foreign Table',
-    materializedView: 'Materialized View',
-  },
   ssh: {
     util: 'Util',
     theme: 'Theme',

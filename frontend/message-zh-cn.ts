@@ -155,13 +155,6 @@ export default {
     s3Notice: '支持连接到任意兼容s3协议的服务, 例如阿里云对象存储OSS.',
     hasDockerNotice: '已安装Docker, 你可通过连接按钮直接连接.',
   },
-  treeFeature: {
-    type: '类型',
-    event: '事件',
-    sequence: '序列',
-    foreignTable: '外部表',
-    materializedView: '物化视图',
-  },
   ssh: {
     util: '工具',
     theme: '主题',
