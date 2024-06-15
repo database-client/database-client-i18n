@@ -209,7 +209,7 @@ export default {
     export: 'Export',
     exportToEditor: 'Export To Editor',
     exportOption: 'Export Option',
-    importExternal: 'Import External Data',
+    importOption: 'Import Option',
     editData: 'Edit Data',
     exportType: 'Type',
     exportSQL: 'Output SQL to separate sheet',

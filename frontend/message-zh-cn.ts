@@ -209,7 +209,7 @@ export default {
     export: '导出',
     exportToEditor: '导出到编辑器',
     exportOption: '导出选项',
-    importExternal: '导入外部数据',
+    importOption: '导入选项',
     editData: '编辑数据',
     exportType: '类型',
     exportSQL: '输出SQL到单独的表',
