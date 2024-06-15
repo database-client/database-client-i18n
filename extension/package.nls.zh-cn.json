@@ -154,7 +154,6 @@
 	"config.autoPagingSQL": "自动对将执行的SQL分页",
 	"config.queryWithSchema": "查询所有表数据时带上schema",
 	"config.confirmWhenUpdateWithoutWhere": "执行没有WHERE的UPDATE时进行确认",
-	"config.redisPageSize": "Redis分页scan时的key数量",
 	"config.highlightSQLBlock": "编辑SQL时高亮当前SQL",
 	"config.autoGetTableCount": "查询表时自动获取总行数",
 	"config.disableSQLCompletion": "禁用SQL补全",

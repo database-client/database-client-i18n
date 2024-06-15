@@ -154,7 +154,6 @@
 	"config.autoPagingSQL": "Automatically add paging clauses to SQL.",
 	"config.queryWithSchema": "Query all table with schema when clicking table node.",
 	"config.confirmWhenUpdateWithoutWhere": "Confirm when executing UPDATE without WHERE clause.",
-	"config.redisPageSize": "Number of keys loaded by Redis scan.",
 	"config.highlightSQLBlock": "Highlight SQL Code block at cursor.",
 	"config.autoGetTableCount": "Get total row count when viewing table data.",
 	"config.disableSQLCompletion": "Disable SQL completion.",

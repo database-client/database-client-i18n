@@ -183,6 +183,7 @@ export default {
     privateKeyAndPassword: '私钥和密码',
     database: '数据库',
     databaseNumber: '数据库数量',
+    redisTotalKeyCount: '读取的Key总数',
     dbPath: '数据库路径',
     mongoAuthSource: '认证数据库',
     databasePlaceholder: '目标数据库',

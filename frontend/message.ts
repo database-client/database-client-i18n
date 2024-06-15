@@ -183,6 +183,7 @@ export default {
     privateKeyAndPassword: 'Private Key and Password',
     database: 'Database',
     databaseNumber: 'Number of databases',
+    redisTotalKeyCount: 'The total number of keys',
     dbPath: 'Database Path',
     mongoAuthSource: 'Auth Database',
     databasePlaceholder: 'Database',
