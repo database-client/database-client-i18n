@@ -79,7 +79,7 @@ export default {
     design: 'Properties',
     process: 'Process',
     monitor: 'Monitor',
-    erDiagram: 'ER Diagram',
+    erDiagram: 'Diagram',
   },
   sshStatus: {
     systemInfo: 'System Info',
