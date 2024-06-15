@@ -22,6 +22,7 @@ export default {
     comment: '注释',
     default: '默认值',
     readonly: '这个连接是只读的!',
+    developerTool: '切换开发者工具'
   },
   state: {
     viewType: '视图类型:',
@@ -221,6 +222,7 @@ export default {
     searchNotice: '搜索结果集',
     cost: '耗时',
     copy: '复制',
+    paste: '粘贴',
     copyAsMore: '复制为...',
     copyAsCSV: '复制为CSV',
     copyAsSQL: '复制为SQL',

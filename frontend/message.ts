@@ -21,7 +21,8 @@ export default {
     type: 'Type',
     comment: 'Comment',
     default: 'Default',
-    readonly: 'This connection is read-only!'
+    readonly: 'This connection is read-only!',
+    developerTool: 'Toggle Developer Tools'
   },
   state: {
     viewType: 'View Type:',
@@ -221,6 +222,7 @@ export default {
     searchNotice: 'Search results',
     cost: 'Cost',
     copy: 'Copy',
+    paste: 'Paste',
     copyAsMore: 'Copy As ...',
     copyAsCSV: 'Copy As CSV',
     copyAsSQL: 'Copy As SQL',
