@@ -210,6 +210,7 @@ export default {
     exportToEditor: 'Export To Editor',
     exportOption: 'Export Option',
     importOption: 'Import Option',
+    importNotice: 'Ensure that the data and table header are consistent',
     editData: 'Edit Data',
     exportType: 'Type',
     exportSQL: 'Output SQL to separate sheet',
