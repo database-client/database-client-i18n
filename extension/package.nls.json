@@ -172,6 +172,8 @@
 	"config.terminalLocation": "Configure where to open the terminal.",
 	"config.escapedAllObjectName": "Escaped all object name.",
 	"config.capitalizeKeywordsWhenFormatting": "Capitalize keywords when formatting",
+	"config.completionTriggerKey": "Specify the key that triggers completion",
+	"config.variableIndicator": "Character that indicates the beginning of an SQL variable",
 	"ext.content.confirmYes": "YES",
 	"ext.content.confirmNo": "NO",
 	"ext.content.selectShowDatabases": "Select show databases",

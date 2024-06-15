@@ -172,6 +172,8 @@
 	"config.terminalLocation": "配置打开终端的位置",
 	"config.escapedAllObjectName": "对所有对象名进行转义",
 	"config.capitalizeKeywordsWhenFormatting": "格式化时将关键词大写",
+	"config.completionTriggerKey": "指定触发补全的Key",
+	"config.variableIndicator": "指示开始SQL变量的字符",
 	"ext.content.confirmYes": "确认",
 	"ext.content.confirmNo": "取消",
 	"ext.content.selectShowDatabases": "选择要显示的数据库",
