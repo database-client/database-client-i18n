@@ -33,7 +33,6 @@
 	"command.query.add": "新建查询",
 	"command.query.book.add": "新建查询笔记",
 	"command.query.rename": "重命名查询",
-	"command.query.delete": "删除该查询",
 	"command.diagram.open": "打开实体图",
 	"command.diagram.drop": "删除实体图",
 	"command.s3.url.temp": "生成临时访问URL",

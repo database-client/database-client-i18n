@@ -33,7 +33,6 @@
 	"command.query.add": "Create Query",
 	"command.query.book.add": "Create Query Book",
 	"command.query.rename": "Rename Query",
-	"command.query.delete": "Delete This Query",
 	"command.diagram.open": "Open Diagram",
 	"command.diagram.drop": "Drop Diagram",
 	"command.s3.url.temp": "Get Temporary Access URL",
