@@ -59,6 +59,7 @@
 	"command.runAllQueryWithoutParse": "Run All SQL Statements (Not Parsed)",
 	"command.util.github": "Star the project to show support.",
 	"command.query.switch": "Open Query",
+	"command.query.link": "Link External Folder",
 	"command.sql.import": "Import SQL",
 	"command.data.import": "Restore Data",
 	"command.data.export": "Dump Data",
