@@ -159,6 +159,7 @@ export default {
   ssh: {
     util: '工具',
     theme: '主题',
+    cursor: '光标',
     shell: '打开终端后要执行的Shell.',
     portForward: {
       local: '从远程服务器转发目标地址到本地。',

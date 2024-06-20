@@ -159,6 +159,7 @@ export default {
   ssh: {
     util: 'Util',
     theme: 'Theme',
+    cursor: 'Cursor',
     shell: 'Shell to be executed after opening the terminal.',
     portForward: {
       local: 'Forward destination address from remote server to local.',
