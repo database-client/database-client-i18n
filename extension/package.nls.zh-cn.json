@@ -56,7 +56,7 @@
 	"command.runSQL": "已选择或当前光标的SQL",
 	"command.runSQLInNew": "已选择或当前光标的SQL (新标签)",
 	"command.runSQLAsJSON": "已选择或当前光标的SQL (JSON)",
-	"command.runSQLWithoutParse": "已选择或当前光标的SQL (不解析)",
+	"command.runSQLWithoutParse": "已选择的SQL (不解析)",
 	"command.runAllQuery": "执行编辑器内全部SQL",
 	"command.runAllQueryWithoutParse": "执行编辑器内全部SQL(不解析)",
 	"command.util.github": "关注项目以表支持",

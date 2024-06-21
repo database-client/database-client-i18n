@@ -56,7 +56,7 @@
 	"command.runSQL": "Selected Or Cursor SQL",
 	"command.runSQLInNew": "Selected Or Cursor SQL (New Tab)",
 	"command.runSQLAsJSON": "Selected Or Cursor SQL (JSON)",
-	"command.runSQLWithoutParse": "Selected Or Cursor SQL (Not Parsed)",
+	"command.runSQLWithoutParse": "Selected SQL (Not Parsed)",
 	"command.runAllQuery": "Run All SQL Statements",
 	"command.runAllQueryWithoutParse": "Run All SQL Statements (Not Parsed)",
 	"command.util.github": "Star the project to show support.",
