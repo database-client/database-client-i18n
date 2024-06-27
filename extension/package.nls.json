@@ -64,7 +64,7 @@
 	"command.query.link": "Link External Folder",
 	"command.sql.import": "Import SQL",
 	"command.data.import": "Restore Data",
-	"command.data.export": "Dump Data",
+	"command.data.export": "Dump Struct And Data",
 	"command.document.generate": "Generate Document",
 	"command.struct.export": "Dump Struct",
 	"command.db.active": "Change Active Connection",

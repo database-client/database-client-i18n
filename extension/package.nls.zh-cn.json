@@ -64,7 +64,7 @@
 	"command.query.link": "链接外部文件夹",
 	"command.sql.import": "导入SQL文件",
 	"command.data.import": "恢复数据",
-	"command.data.export": "导出数据",
+	"command.data.export": "导出结构和数据",
 	"command.document.generate": "生成数据库文档",
 	"command.struct.export": "导出表结构",
 	"command.db.active": "修改活跃连接",
