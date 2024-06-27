@@ -212,7 +212,7 @@ export default {
     exportToEditor: '导出到编辑器',
     exportOption: '导出选项',
     importOption: '导入选项',
-    importNotice: '保证数据和表的表头一致',
+    skipPrimaryKey: '跳过主键',
     editData: '编辑数据',
     exportType: '类型',
     exportSQL: '输出SQL到单独的表',
