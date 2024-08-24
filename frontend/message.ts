@@ -241,6 +241,7 @@ export default {
   },
   toolbar: {
     showFilter: 'Show Filter',
+    draggableColumns: 'Draggable Columns',
     execute: 'Execute SQL',
     insertNewRow: 'Insert New Row',
     insertNewRowByDialog: 'Insert New Row By Dialog',

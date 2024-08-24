@@ -241,6 +241,7 @@ export default {
   },
   toolbar: {
     showFilter: '显示过滤器',
+    draggableColumns: '支持拖拽列',
     execute: '执行SQL',
     insertNewRow: '插入新行',
     insertNewRowByDialog: '通过对话框插入新行',
