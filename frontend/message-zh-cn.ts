@@ -249,6 +249,7 @@ export default {
     importData: '导入数据',
     exportData: '导出数据',
     reportIssue: '报告问题',
+    closeAllConnections: '关闭所有连接',
     clearCache: '清除缓存',
     payAdvice: '高级用户将移除这个提示',
     noPkUpdateConfirm: "没有发现主键, <span class='red'>此更改可能会影响比预期更多的记录!</span> 您确定保存修改吗(不建议)?",

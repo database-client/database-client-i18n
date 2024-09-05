@@ -249,6 +249,7 @@ export default {
     importData: 'Import Data',
     exportData: 'Export Data',
     reportIssue: 'Report issue',
+    closeAllConnections: 'Close All Connections',
     clearCache: 'Clear Cache',
     payAdvice: 'Premium License will remove this badge',
     noPkUpdateConfirm: "No primary key found, <span class='red'>this change might affect more records than expected!</span> Are you sure you want to continue? (Not Recommended)",
