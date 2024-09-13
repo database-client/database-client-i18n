@@ -79,7 +79,7 @@ export default {
     design: '属性',
     process: '进程',
     monitor: '监控',
-    history: '历史',
+    history: '历史查询',
     erDiagram: 'ER图',
   },
   sshStatus: {
