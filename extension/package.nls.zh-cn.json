@@ -155,6 +155,7 @@
 	"config.defaultSelectLimit": "默认的分页大小",
 	"config.autoPagingSQL": "自动对将执行的SQL分页",
 	"config.queryWithSchema": "查询所有表数据时带上schema",
+	"config.maxSQLParseLength": "SQL解析的最大长度",
 	"config.confirmWhenUpdateWithoutWhere": "执行没有WHERE的UPDATE时进行确认",
 	"config.highlightSQLBlock": "编辑SQL时高亮当前SQL",
 	"config.autoGetTableCount": "查询表时自动获取总行数",

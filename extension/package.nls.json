@@ -155,6 +155,7 @@
 	"config.defaultSelectLimit": "Default limit for SELECT statements.",
 	"config.autoPagingSQL": "Automatically add paging clauses to SQL.",
 	"config.queryWithSchema": "Query all table with schema when clicking table node.",
+	"config.maxSQLParseLength": "The maximum length of SQL text that can be parsed.",
 	"config.confirmWhenUpdateWithoutWhere": "Confirm when executing UPDATE without WHERE clause.",
 	"config.highlightSQLBlock": "Highlight SQL Code block at cursor.",
 	"config.autoGetTableCount": "Get total row count when viewing table data.",
