@@ -20,6 +20,7 @@ export default {
     name: '名称',
     type: '类型',
     comment: '注释',
+    log: '日志',
     default: '默认值',
     readonly: '这个连接是只读的!',
     developerTool: '切换开发者工具'

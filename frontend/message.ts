@@ -20,6 +20,7 @@ export default {
     name: 'Name',
     type: 'Type',
     comment: 'Comment',
+    log: 'Log',
     default: 'Default',
     readonly: 'This connection is read-only!',
     developerTool: 'Toggle Developer Tools'
