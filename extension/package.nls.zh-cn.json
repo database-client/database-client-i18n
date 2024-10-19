@@ -22,6 +22,7 @@
 	"command.es.index.mapping": "配置映射",
 	"command.es.index.delete": "删除索引",
 	"command.history.open": "打开查询历史",
+	"command.history.clear": "清除查询历史",
 	"command.treeview.collapse": "折叠所有连接",
 	"command.notebook.open": "打开笔记本",
 	"command.notebook.new": "新建SQL笔记本",

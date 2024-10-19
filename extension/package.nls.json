@@ -25,6 +25,7 @@
 	"command.treeview.collapse": "Collapse All",
 	"command.notebook.open": "Open Notebook",
 	"command.notebook.new": "New SQL Book",
+	"command.history.clear": "Clear History",
 	"command.refresh": "Refresh",
 	"command.host.copy": "Copy Host",
 	"command.path.copy": "Copy Path",
