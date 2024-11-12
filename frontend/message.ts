@@ -234,6 +234,7 @@ export default {
     editDialog: 'Edit Row',
     copyDialog: 'Copy Row',
     setNull: 'Set NULL',
+    setAsEmptyString: 'Set As Empty String',
     skipForeignCheck: 'Skip foreign key constraint checking',
   },
   pay: {

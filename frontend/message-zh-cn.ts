@@ -234,6 +234,7 @@ export default {
     editDialog: '编辑行',
     copyDialog: '复制行',
     setNull: '设置为NULL',
+    setAsEmptyString: '设置为空字符串',
     skipForeignCheck: '跳过外键约束检查',
   },
   pay: {
