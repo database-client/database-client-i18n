@@ -202,6 +202,7 @@ export default {
     timeZone: '时区',
     groupingTables: '分组表',
     groupingThreshold: '分组阈值',
+    disableSSLVerification: '禁用SSL验证(全局)',
   },
   offline: {
     enterprise: '从你的组织获取许可证.',
