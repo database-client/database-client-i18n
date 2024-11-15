@@ -167,7 +167,7 @@
 	"config.bindConnectionByActiveMark": "Bind SQL files and connections by active mark.",
 	"config.saveConnectionExpandedState": "Save connection expanded state.",
 	"config.telemetry.usesOnlineServices": "Allow colection of anonymous telemetry data to help make Database Client better.",
-	"config.disableSSLVerification": "Disable SSL verification (Global).",
+	"config.disableTLSVerification": "Disable TLS verification (Global).",
 	"config.openResultsAsVertically": "Display results view vertically.",
 	"config.splitSQLByNewLine": "Split SQL by two newlines (Code Lens).",
 	"config.executeCursorSQLByShortcut": "Execute the SQL statement at the cursor when pressing Ctrl(Cmd)-Enter.",

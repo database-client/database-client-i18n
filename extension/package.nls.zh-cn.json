@@ -167,7 +167,7 @@
 	"config.bindConnectionByActiveMark": "通过活跃标识绑定SQL文件和连接",
 	"config.saveConnectionExpandedState": "保存连接展开状态",
 	"config.telemetry.usesOnlineServices": "允许发送匿名遥测数据以帮助Database Client变得更好",
-	"config.disableSSLVerification": "禁用SSL验证(全局)",
+	"config.disableTLSVerification": "禁用TLS验证(全局)",
 	"config.openResultsAsVertically": "垂直方向显示结果视图.",
 	"config.splitSQLByNewLine": "通过两个换行符来分割SQL(Code Lens)",
 	"config.executeCursorSQLByShortcut": "按下快捷键ctrl(cmd)+enter时执行当前光标的SQL",

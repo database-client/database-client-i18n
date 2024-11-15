@@ -202,7 +202,7 @@ export default {
     timeZone: 'Time Zone',
     groupingTables: 'Grouping Tables',
     groupingThreshold: 'Grouping Threshold',
-    disableSSLVerification: 'Disable SSL Verification (Global)',
+    disableTLSVerification: 'Disable TLS Verification (Global)',
   },
   offline: {
     enterprise: 'Obtain a license from your organization.',
