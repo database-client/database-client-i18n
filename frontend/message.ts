@@ -246,6 +246,7 @@ export default {
   },
   toolbar: {
     showFilter: 'Show Filter',
+    showCostTime: 'Show Cost Time',
     draggableColumns: 'Draggable Columns',
     showRowNumber: 'Show Row Number',
     showControllerColumn: 'Show Controller Column',

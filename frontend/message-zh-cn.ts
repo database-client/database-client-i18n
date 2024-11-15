@@ -246,6 +246,7 @@ export default {
   },
   toolbar: {
     showFilter: '显示过滤器',
+    showCostTime: '显示耗时',
     draggableColumns: '支持拖拽列',
     showRowNumber: '显示行号',
     showControllerColumn: '显示控制列',
