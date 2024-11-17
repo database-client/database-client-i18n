@@ -224,6 +224,7 @@ export default {
     insert: '保存',
     update: '更新',
     confirm: '确认',
+    searchField: '搜索字段',
     searchNotice: '搜索结果集',
     cost: '耗时',
     copy: '复制',
