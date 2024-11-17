@@ -145,6 +145,7 @@ export default {
     requestTimeout: 'Request Timeout',
     hideSystemSchema: 'Hide System Schema',
     connectString: 'Connection String',
+    customJdbcUrl: 'Custom JDBC URL',
     usingConnectString: 'Use Connection String',
     chooseSqlite: 'Choose Database File',
     advance: 'Advanced',

@@ -145,6 +145,7 @@ export default {
     requestTimeout: '请求超时',
     hideSystemSchema: '隐藏系统数据库',
     connectString: '连接字符串',
+    customJdbcUrl: '自定义JDBC URL',
     usingConnectString: '使用连接字符串',
     chooseSqlite: '选择数据库文件',
     advance: '高级',
