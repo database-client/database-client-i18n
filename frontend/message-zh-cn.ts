@@ -204,6 +204,7 @@ export default {
     groupingTables: '分组表',
     groupingThreshold: '分组阈值',
     disableTLSVerification: '禁用TLS验证(全局)',
+    loadMetaDataWhenExpandTreeView: '展开树视图时加载元数据',
   },
   offline: {
     enterprise: '从你的组织获取许可证.',

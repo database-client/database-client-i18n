@@ -204,6 +204,7 @@ export default {
     groupingTables: 'Grouping Tables',
     groupingThreshold: 'Grouping Threshold',
     disableTLSVerification: 'Disable TLS Verification (Global)',
+    loadMetaDataWhenExpandTreeView: 'Load Meta Data When Expand Tree View',
   },
   offline: {
     enterprise: 'Obtain a license from your organization.',
