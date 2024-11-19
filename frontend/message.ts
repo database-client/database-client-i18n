@@ -242,7 +242,7 @@ export default {
     skipForeignCheck: 'Skip foreign key constraint checking',
   },
   pay: {
-    connectNotice: "<span class='red'>Note</span>: Extension requires a <a href='https://database-client.com/#/plan'>Premium License</a> to unlock all features. (Limited to 3 connections)",
+    connectNotice: "<span class='red'>Note</span>: Requires a <a href='https://database-client.com/#/plan'>Premium License</a> to unlock all features. (Limited to 3 connections)",
     notice: 'If this project is helpful to you, please consider purchasing a Premium License to support it.',
     freePlanInstalled: 'Installed',
     buyPlan: 'Buy Now',
