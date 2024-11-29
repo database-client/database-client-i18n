@@ -237,6 +237,8 @@ export default {
     copyColumns: 'Copy Values',
     editDialog: 'Edit Row',
     copyDialog: 'Copy Row',
+    loadFile: 'Load File...',
+    exportData: 'Export Data',
     setNull: 'Set NULL',
     setAsEmptyString: 'Set As Empty String',
     skipForeignCheck: 'Skip foreign key constraint checking',

@@ -237,6 +237,8 @@ export default {
     copyColumns: '复制整列',
     editDialog: '编辑行',
     copyDialog: '复制行',
+    loadFile: '加载文件...',
+    exportData: '导出数据',
     setNull: '设置为NULL',
     setAsEmptyString: '设置为空字符串',
     skipForeignCheck: '跳过外键约束检查',
