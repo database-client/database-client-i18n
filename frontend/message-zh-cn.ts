@@ -242,6 +242,8 @@ export default {
     setNull: '设置为NULL',
     setAsEmptyString: '设置为空字符串',
     skipForeignCheck: '跳过外键约束检查',
+    filterBy: '筛选:',
+    localFilterBy: '筛选当前数据:',
   },
   pay: {
     connectNotice: "<span class='red'>注意</span>: 需要<a href='https://database-client.com/#/plan'>付费</a>才能使用全部功能(3个连接限制).",

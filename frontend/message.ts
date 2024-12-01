@@ -242,6 +242,8 @@ export default {
     setNull: 'Set NULL',
     setAsEmptyString: 'Set As Empty String',
     skipForeignCheck: 'Skip foreign key constraint checking',
+    filterBy: 'Filter by',
+    localFilterBy: 'Local Filter by',
   },
   pay: {
     connectNotice: "<span class='red'>Note</span>: Requires a <a href='https://database-client.com/#/plan'>Premium License</a> to unlock all features. (Limited to 3 connections)",
