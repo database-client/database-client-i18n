@@ -246,7 +246,7 @@ export default {
     localFilterBy: '筛选当前数据:',
   },
   pay: {
-    connectNotice: "<span class='red'>注意</span>: 需要<a href='https://database-client.com/#/plan'>付费</a>才能使用全部功能(3个连接限制).",
+    connectNotice: "<span class='red'>注意</span>: 需要<a href='https://database-client.com/#/plan'>付费</a>才能使用全部功能(4个连接限制).",
     notice: '如果此项目对你有帮助, 请考虑付费进行支持. ',
     freePlanInstalled: '已安装',
     buyPlan: '立刻购买',
@@ -307,7 +307,7 @@ export default {
     connectionSupport: 'MySQL, PostgreSQL, Redis, SSH以及更多',
     premiumDesc: '对于希望提高生产力的开发工程师',
     otherFeature: 'SFTP保存, SQL历史记录支持',
-    freeLimitConnection: '限制3个连接',
+    freeLimitConnection: '限制4个连接',
     unlimitedMachine: '无限制机器数量 (账号登录)',
     unlimitedConnection: '无限制的连接',
     cloudSync: '设置云同步',

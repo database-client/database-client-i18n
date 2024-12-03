@@ -246,7 +246,7 @@ export default {
     localFilterBy: 'Local Filter by',
   },
   pay: {
-    connectNotice: "<span class='red'>Note</span>: Requires a <a href='https://database-client.com/#/plan'>Premium License</a> to unlock all features. (Limited to 3 connections)",
+    connectNotice: "<span class='red'>Note</span>: Requires a <a href='https://database-client.com/#/plan'>Premium License</a> to unlock all features. (Limited to 4 connections)",
     notice: 'If this project is helpful to you, please consider purchasing a Premium License to support it.',
     freePlanInstalled: 'Installed',
     buyPlan: 'Buy Now',
@@ -307,7 +307,7 @@ export default {
     connectionSupport: 'MySQL, PostgreSQL, Redis, SSH, and More',
     premiumDesc: 'For engineers looking to boost productivity',
     otherFeature: 'SFTP Saver, SQL History Support',
-    freeLimitConnection: 'Limited to 3 connections',
+    freeLimitConnection: 'Limited to 4 connections',
     unlimitedMachine: 'Unlimited Devices (Via Account)',
     unlimitedConnection: 'Unlimited Connections',
     cloudSync: 'Cloud Config Sync',
