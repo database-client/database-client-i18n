@@ -144,7 +144,7 @@
 	"ext.cloud.title.plan": "付费说明",
 	"ext.cloud.title.console": "控制台",
 	"ext.cloud.title.document": "使用文档",
-	"ext.pay.connectLimit": "免费账户每个面板最多创建3个连接!",
+	"ext.pay.connectLimit": "免费账户每个面板最多创建2个连接!",
 	"ext.console.editConfig": "编辑设置",
 	"ext.console.exportConfig": "导出设置",
 	"ext.console.importConfig": "导入设置",

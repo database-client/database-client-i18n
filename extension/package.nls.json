@@ -144,7 +144,7 @@
 	"ext.cloud.title.plan": "Payment Instructions",
 	"ext.cloud.title.console": "Settings",
 	"ext.cloud.title.document": "Document",
-	"ext.pay.connectLimit": "Free accounts are limited to 3 connections per panel!",
+	"ext.pay.connectLimit": "Free accounts are limited to 2 connections per panel!",
 	"ext.console.editConfig": "Edit Config",
 	"ext.console.exportConfig": "Export Config",
 	"ext.console.importConfig": "Import Config",
