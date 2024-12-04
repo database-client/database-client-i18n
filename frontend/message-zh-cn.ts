@@ -252,9 +252,10 @@ export default {
     buyPlan: '立刻购买',
   },
   toolbar: {
+    showCostTime: '耗时',
+    showColumnFilter: '列过滤器',
+    showAggregateBar: '聚合栏',
     showFilter: '显示过滤器',
-    showColumnFilter: '显示列过滤器',
-    showCostTime: '显示耗时',
     draggableColumns: '支持拖拽列',
     showRowNumber: '显示行号',
     showControllerColumn: '显示控制列',

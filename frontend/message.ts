@@ -252,9 +252,10 @@ export default {
     buyPlan: 'Buy Now',
   },
   toolbar: {
+    showCostTime: 'Cost Time',
+    showColumnFilter: 'Column Filter',
+    showAggregateBar: 'Aggregate Bar',
     showFilter: 'Show Filter',
-    showColumnFilter: 'Show Column Filter',
-    showCostTime: 'Show Cost Time',
     draggableColumns: 'Draggable Columns',
     showRowNumber: 'Show Row Number',
     showControllerColumn: 'Show Controller Column',
