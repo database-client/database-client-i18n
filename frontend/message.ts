@@ -199,6 +199,7 @@ export default {
     showedDatabases: 'Showed Databases',
     startupSQL: 'Startup SQL',
     rootPath: 'Root Path',
+    compatibleMode: 'Compatible Mode',
     customTerminalCommand: 'Custom Terminal Command',
     privateKeyPath: 'Private Key Path',
     timeZone: 'Time Zone',

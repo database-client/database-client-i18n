@@ -199,6 +199,7 @@ export default {
     showedDatabases: '显示的数据库',
     startupSQL: '启动SQL',
     rootPath: '根路径',
+    compatibleMode: '兼容模式',
     customTerminalCommand: '自定义终端命令',
     privateKeyPath: '私钥路径',
     timeZone: '时区',
