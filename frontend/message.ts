@@ -155,7 +155,6 @@ export default {
     coLatestVersion: 'Latest Version',
     pruneSFTPRoot: 'Prune Root',
     showHiddenFiles: 'Show Hidden Files',
-    mongoNotice: 'MongoDB has less support, only recommended for browsing data.',
     s3Notice: 'Support connecting to any service compatible with AWS S3 protocol, such as Minio.',
     hasDockerNotice: 'Check that Docker is installed and you can connect directly via the connect button.',
   },
