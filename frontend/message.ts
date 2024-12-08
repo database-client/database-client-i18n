@@ -198,6 +198,7 @@ export default {
     showedBuckets: 'Showed Buckets',
     showedDatabases: 'Showed Databases',
     startupSQL: 'Startup SQL',
+    rootPath: 'Root Path',
     customTerminalCommand: 'Custom Terminal Command',
     privateKeyPath: 'Private Key Path',
     timeZone: 'Time Zone',
