@@ -156,7 +156,6 @@ export default {
     pruneSFTPRoot: '修剪根路径',
     showHiddenFiles: '显示隐藏文件',
     s3Notice: '支持连接到任意兼容s3协议的服务, 例如阿里云对象存储OSS.',
-    hasDockerNotice: '已安装Docker, 你可通过连接按钮直接连接.',
   },
   ssh: {
     util: '工具',
