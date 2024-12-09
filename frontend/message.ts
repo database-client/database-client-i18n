@@ -199,6 +199,7 @@ export default {
     rootPath: 'Root Path',
     compatibleMode: 'Compatible Mode',
     customTerminalCommand: 'Custom Terminal Command',
+    autoDescendingColumns: 'Auto Descending Columns',
     privateKeyPath: 'Private Key Path',
     timeZone: 'Time Zone',
     groupingTables: 'Grouping Tables',
