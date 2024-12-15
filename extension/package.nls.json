@@ -166,7 +166,7 @@
 	"config.telemetry.usesOnlineServices": "Allow colection of anonymous telemetry data to help make Database Client better.",
 	"config.disableTLSVerification": "Disable TLS verification (Global).",
 	"config.openResultsAsVertically": "Display results view vertically.",
-	"config.splitSQLByNewLine": "Split SQL by two newlines (Deprecated).",
+	"config.splitSQLByNewLine": "Split SQL by two newlines (Deprecated, please keep the default value).",
 	"config.enableFlexibleSQLParser": "Enable flexible SQL parser.",
 	"config.executeCursorSQLByShortcut": "Execute the SQL statement at the cursor when pressing Ctrl(Cmd)-Enter.",
 	"config.showUser": "Show user on tree view.",

@@ -166,7 +166,7 @@
 	"config.telemetry.usesOnlineServices": "允许发送匿名遥测数据以帮助Database Client变得更好",
 	"config.disableTLSVerification": "禁用TLS验证(全局)",
 	"config.openResultsAsVertically": "垂直方向显示结果视图.",
-	"config.splitSQLByNewLine": "通过两个换行符来分割SQL(已弃用)",
+	"config.splitSQLByNewLine": "通过两个换行符来分割SQL(已弃用, 请保持默认值)",
 	"config.enableFlexibleSQLParser": "启用灵活的SQL解析器",
 	"config.executeCursorSQLByShortcut": "按下快捷键ctrl(cmd)+enter时执行当前光标的SQL",
 	"config.showUser": "在树视图显示User节点",
