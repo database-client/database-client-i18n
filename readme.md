@@ -1,3 +1,5 @@
+### Now we will use AI to correct English, no longer need.
+
 # Database Client I18n
 
 This repository is the i18n resource of the [Database Client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2).
